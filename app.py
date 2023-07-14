@@ -74,10 +74,6 @@ st.image("suresh.jpg",caption="This is my image",width=300)
 
 st.subheader("Audio")
 st.audio("namo_namo.mp3")
-
-st.subheader("Video")
-st.video("chat.py_demo.mp4")
-
 st.markdown("---")
 
 st.header("Removing The Humburder and footBar")
